@@ -1,2 +1,0 @@
-# DEPI-Project
-graduation project
